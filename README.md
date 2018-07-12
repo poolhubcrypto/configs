@@ -1,5 +1,6 @@
 # configs
 Configuration Files Regarding poolHUB.org Crypto Mining Pools
+
 Ethereum Pool Chicago Based. 1% Fee with weekly raffle.
 stratum+tcp://eth.poolhub.org:8008
 
