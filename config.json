@@ -1,0 +1,44 @@
+{
+  "logourl":"http://betanet.io/img/pool.png",
+  "iconurl":"http://betanet.io/img/pool.png",
+  "headline":"poolHub - Your One Stop Shop For Slaying Dragons... And Mining",
+  "helpdeskurl":"https://poolhubcryptominingpools.freshdesk.com",
+  "pools":[
+    {
+        "name":"Ethereum",
+        "symbol":"ETH",
+	"url":"http://eth.poolhub.org/",
+        "iconurl":"http://betanet.io/img/eth.png"
+    },
+    {
+        "name":"Music Coin",
+        "symbol":"MUSIC",
+	"url":"http://music.poolhub.org/",
+        "iconurl":"http://betanet.io/img/music.png"
+    },
+    {
+        "name":"Ubiq",
+        "symbol":"UBIQ",
+	"url":"http://ubiq.poolhub.org/",
+        "iconurl":"http://betanet.io/img/ubiq.png"
+    },
+    {
+        "name":"Ellaism",
+        "symbol":"ELLA",
+	"url":"http://ella.poolhub.org/",
+        "iconurl":"http://betanet.io/img/ella.png"
+    },    
+    {
+        "name":"Expanse",
+        "symbol":"EXP",
+	"url":"http://exp.betanet.io/",
+        "iconurl":"http://betanet.io/img/exp.png"
+    },    
+    {
+        "name":"Pirl",
+        "symbol":"PIRL",
+	"url":"http://pirl.poolhub.org/",
+        "iconurl":"http://betanet.io/img/pirl.png"
+    }
+]
+}
