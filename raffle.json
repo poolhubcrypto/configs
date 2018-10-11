@@ -3,12 +3,12 @@
         "Date": "10/05/2018",
         "Address": "0x000000000000000000000",
         "Symbol": "Ethereum",
-	    "Amount": "1.0000"
+	"Amount": "1.0000"
     },
     {
         "Date": "10/05/2018",
         "Address": "0x000000000000000000000",
         "Symbol": "Ethereum",
-	    "Amount": "1.000"
+	"Amount": "1.000"
     }
 ]
