@@ -10,5 +10,53 @@
         "Address": "0xb24ab68ba0044f7514447eaff33e7aabb43f8ddc",
         "Symbol": "AKA",
 	"Amount": "13.659"
+    },
+    {
+        "Date": "07/07/2018",
+        "Address": "0x17c2e1357b2367f78c131040ab9d8a4e3d050c60",
+        "Symbol": "ETH",
+	"Amount": "0.013125"
+    },
+    {
+        "Date": "06/30/2018",
+        "Address": "0xb202aa3dc92baed164953cc75e7947f30912e5a9",
+        "Symbol": "ETH",
+	"Amount": "0.01125"
+    },
+    {
+        "Date": "06/23/2018",
+        "Address": "0x09f07261559bf3758e35a6f6e6ecbabe2cb4728d",
+        "Symbol": "ETH",
+	"Amount": "0.0242798325"
+    },
+    {
+        "Date": "06/23/2018",
+        "Address": "0x3d82eb4da91a2633609ffb7e09d6f001b2d374c5",
+        "Symbol": "ELLA",
+	"Amount": "36.4055"
+    },
+    {
+        "Date": "06/03/2018",
+        "Address": "0x2e7edae117a8a55c20cff6055784cfa8acfb78db",
+        "Symbol": "ETH",
+	"Amount": "0.01125"
+    },
+    {
+        "Date": "06/10/2018",
+        "Address": "0x7ebee48e5c24518a38235b06c3ed93ae589ab1f3",
+        "Symbol": "MUSIC",
+	"Amount": "74.690035286"
+    },
+    {
+        "Date": "06/02/2018",
+        "Address": "0x89b62c101c042d84513cfd7108a6260d94a97ecd",
+        "Symbol": "ELLA",
+	"Amount": "1.548177205"
+    },
+    {
+        "Date": "06/03/2018",
+        "Address": "0x180712B58567eeBeB6F3354Aa53cb8F66010bC5d",
+        "Symbol": "ETH",
+	"Amount": "0.0366002445"
     }
 ]
