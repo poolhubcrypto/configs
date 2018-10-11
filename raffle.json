@@ -1,14 +1,14 @@
 [
     {
-        "Date": "10/05/2018",
-        "Address": "0x000000000000000000000",
-        "Symbol": "Ethereum",
-	"Amount": "1.0000"
+        "Date": "09/10/2018",
+        "Address": "0xf4970a4b9ab74aaef19b67245190dbb6f604491f",
+        "Symbol": "ETC",
+	"Amount": "0.395"
     },
     {
-        "Date": "10/05/2018",
-        "Address": "0x000000000000000000000",
-        "Symbol": "Ethereum",
-	"Amount": "1.000"
+        "Date": "09/10/2018",
+        "Address": "0xb24ab68ba0044f7514447eaff33e7aabb43f8ddc",
+        "Symbol": "AKA",
+	"Amount": "13.659"
     }
 ]
