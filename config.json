@@ -8,55 +8,64 @@
         "name":"Ethereum",
         "symbol":"ETH",
 	"url":"http://eth.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/eth.png"
+        "iconurl":"http://data.betanet.io/img/eth.png",
+	"room_id":"ethereum"
     }, 
     {
         "name":"Ethereum Classic",
         "symbol":"ETC",
 	"url":"http://etc.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/etc.png"
+        "iconurl":"http://data.betanet.io/img/etc.png",
+	"room_id":"ethereum-classic"
     },
     {
         "name":"Music Coin",
         "symbol":"MUSIC",
 	"url":"http://music.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/music.png"
+        "iconurl":"http://data.betanet.io/img/music.png",
+	"room_id":"musicoin"
     },
     {
         "name":"Ubiq",
         "symbol":"UBIQ",
 	"url":"http://ubiq.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/ubiq.png"
+        "iconurl":"http://data.betanet.io/img/ubiq.png",
+	"room_id":"ubiq"
     },
     {
         "name":"Ellaism",
         "symbol":"ELLA",
 	"url":"http://ella.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/ella.png"
+        "iconurl":"http://data.betanet.io/img/ella.png",
+	"room_id":"ellaism"
     },    
     {
         "name":"Expanse",
         "symbol":"EXP",
-	"url":"http://exp.betanet.io/",
-        "iconurl":"http://data.betanet.io/img/exp.png"
+	"url":"http://exp.poolhub.org/",
+        "iconurl":"http://data.betanet.io/img/exp.png",
+	"room_id":"expanse"
     },     
     {
         "name":"Whale",
         "symbol":"WHL",
-	"url":"http://whale.betanet.io/",
-        "iconurl":"http://data.betanet.io/img/whale.png"
+	"url":"http://whale.poolhub.org/",
+        "iconurl":"http://data.betanet.io/img/whale.png",
+	"room_id":"whalecoin"
     },        
     {
         "name":"Akroma",
         "symbol":"AKA",
-	"url":"http://aka.betanet.io/",
-        "iconurl":"http://data.betanet.io/img/aka.png"
+	"url":"http://aka.poolhub.org/",
+        "iconurl":"http://data.betanet.io/img/aka.png",
+	"room_id":"akroma"
     },    
     {
         "name":"Pirl",
         "symbol":"PIRL",
 	"url":"http://pirl.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/pirl.png"
+        "iconurl":"http://data.betanet.io/img/pirl.png",
+	"room_id":"pirl"
     }
 ]
 }
