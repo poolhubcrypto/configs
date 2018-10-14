@@ -4,13 +4,13 @@
   "headline":"poolHub - Your One Stop Shop For Slaying Dragons... And Mining",
   "helpdeskurl":"https://poolhubcryptominingpools.freshdesk.com",
   "pools":[
-  /*  {
-        "name":"Ethereum",
-        "symbol":"ETH",
-	"url":"http://eth.poolhub.org/",
-        "iconurl":"http://data.betanet.io/img/eth.png",
-	"room_id":"438836707698147328"
-    }, */
+  // {
+ //       "name":"Ethereum",
+  //      "symbol":"ETH",
+//	"url":"http://eth.poolhub.org/",
+ //       "iconurl":"http://data.betanet.io/img/eth.png",
+//	"room_id":"438836707698147328"
+  //  }, 
     {
         "name":"Ethereum Classic",
         "symbol":"ETC",
