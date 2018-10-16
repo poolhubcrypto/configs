@@ -1,5 +1,23 @@
 [
     {
+        "Date": "10/15/2018",
+        "Address": "0xcc42dc00c680960c14b1e5ec4571bcf5fdde14a6",
+        "Symbol": "EXP",
+	"Amount": "0.6595"
+    },
+    {
+        "Date": "10/15/2018",
+        "Address": "0xd3aea6b339268054ecb66a6c2cfde96056ef1d48",
+        "Symbol": "MUSIC",
+	"Amount": "617.5242443185"
+    },
+    {
+        "Date": "10/15/2018",
+        "Address": "0xeEce5bB7CDb4E852566BEa247508DbA738f66912",
+        "Symbol": "ELLA",
+	"Amount": "50.818012685"
+    },
+    {
         "Date": "09/10/2018",
         "Address": "0xf4970a4b9ab74aaef19b67245190dbb6f604491f",
         "Symbol": "ETC",
