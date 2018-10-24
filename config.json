@@ -8,56 +8,56 @@
     {
         "name":"EthereumClassic",
         "symbol":"ETC",
-	"url":"http://etc.poolhub.org/",
+	"url":"https://etc.poolhub.org/",
         "iconurl":"https://poolhub.org/img/etc.png",
 	"room_id":"469545780080934923"
     },
     {
         "name":"Musicoin",
         "symbol":"MUSIC",
-	"url":"http://music.poolhub.org/",
+	"url":"https://music.poolhub.org/",
         "iconurl":"https://poolhub.org/img/music.png",
 	"room_id":"438838172307161089"
     },
     {
         "name":"Ubiq",
         "symbol":"UBIQ",
-	"url":"http://ubiq.poolhub.org/",
+	"url":"https://ubiq.poolhub.org/",
         "iconurl":"https://poolhub.org/img/ubiq.png",
 	"room_id":"438837776113205258"
     },
     {
         "name":"Ellaism",
         "symbol":"ELLA",
-	"url":"http://ella.poolhub.org/",
+	"url":"https://ella.poolhub.org/",
         "iconurl":"https://poolhub.org/img/ella.png",
 	"room_id":"438837727190974474"
     },    
     {
         "name":"Expanse",
         "symbol":"EXP",
-	"url":"http://exp.poolhub.org/",
+	"url":"https://exp.poolhub.org/",
         "iconurl":"https://poolhub.org/img/exp.png",
 	"room_id":"488740058032111617"
     },     
     {
         "name":"Whalecoin",
         "symbol":"WHL",
-	"url":"http://whale.poolhub.org/",
+	"url":"https://whale.poolhub.org/",
         "iconurl":"https://poolhub.org/img/whale.png",
 	"room_id":"491240065926823937"
     },        
     {
         "name":"Akroma",
         "symbol":"AKA",
-	"url":"http://aka.poolhub.org/",
+	"url":"https://aka.poolhub.org/",
         "iconurl":"https://poolhub.org/img/aka.png",
 	"room_id":"487029527227400200"
     },    
     {
         "name":"Pirl",
         "symbol":"PIRL",
-	"url":"http://pirl.poolhub.org/",
+	"url":"https://pirl.poolhub.org/",
         "iconurl":"https://poolhub.org/img/pirl.png",
 	"room_id":"444408311643766784"
     }
