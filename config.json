@@ -6,7 +6,7 @@
   "pools":[
 
     {
-        "name":"Ethereum Classic",
+        "name":"EthereumClassic",
         "symbol":"ETC",
 	"url":"http://etc.poolhub.org/",
         "iconurl":"https://poolhub.org/img/etc.png",
@@ -41,7 +41,7 @@
 	"room_id":"488740058032111617"
     },     
     {
-        "name":"Whale",
+        "name":"Whalecoin",
         "symbol":"WHL",
 	"url":"http://whale.poolhub.org/",
         "iconurl":"https://poolhub.org/img/whale.png",
