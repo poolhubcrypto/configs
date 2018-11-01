@@ -60,6 +60,13 @@
 	"url":"http://pirl.poolhub.org/",
         "iconurl":"https://poolhub.org/img/pirl.png",
 	"room_id":"444408311643766784"
+    },
+    {
+        "name":"Callisto",
+        "symbol":"CLO",
+	"url":"http://clo.poolhub.org/",
+        "iconurl":"https://poolhub.org/img/clo.png",
+	"room_id":"507641207221125144"
     }
 ]
 }
