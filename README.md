@@ -37,4 +37,7 @@ Whalecoin Pool St. Louis Based. 1% Fee with weekly raffle.
 
 stratum+tcp://whale.poolhub.org:4090
 
+Callisto Pool St. Louis Based. 1% Fee with weekly raffle.
+
+stratum+tcp://clo.poolhub.org:4100
 
