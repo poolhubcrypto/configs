@@ -8,63 +8,63 @@
     {
         "name":"EthereumClassic",
         "symbol":"ETC",
-	"url":"https://etc.poolhub.org/",
+	"url":"http://etc.poolhub.org/",
         "iconurl":"https://poolhub.org/img/etc.png",
 	"room_id":"469545780080934923"
     },
     {
         "name":"Musicoin",
         "symbol":"MUSIC",
-	"url":"https://music.poolhub.org/",
+	"url":"http://music.poolhub.org/",
         "iconurl":"https://poolhub.org/img/music.png",
 	"room_id":"438838172307161089"
     },
     {
         "name":"Ubiq",
         "symbol":"UBIQ",
-	"url":"https://ubiq.poolhub.org/",
+	"url":"http://ubiq.poolhub.org/",
         "iconurl":"https://poolhub.org/img/ubiq.png",
 	"room_id":"438837776113205258"
     },
     {
         "name":"Ellaism",
         "symbol":"ELLA",
-	"url":"https://ella.poolhub.org/",
+	"url":"http://ella.poolhub.org/",
         "iconurl":"https://poolhub.org/img/ella.png",
 	"room_id":"438837727190974474"
     },    
     {
         "name":"Expanse",
         "symbol":"EXP",
-	"url":"https://exp.poolhub.org/",
+	"url":"http://exp.poolhub.org/",
         "iconurl":"https://poolhub.org/img/exp.png",
 	"room_id":"488740058032111617"
     },     
     {
         "name":"Whalecoin",
         "symbol":"WHL",
-	"url":"https://whale.poolhub.org/",
+	"url":"http://whale.poolhub.org/",
         "iconurl":"https://poolhub.org/img/whale.png",
 	"room_id":"491240065926823937"
     },        
     {
         "name":"Akroma",
         "symbol":"AKA",
-	"url":"https://aka.poolhub.org/",
+	"url":"http://aka.poolhub.org/",
         "iconurl":"https://poolhub.org/img/aka.png",
 	"room_id":"487029527227400200"
     },    
     {
         "name":"Pirl",
         "symbol":"PIRL",
-	"url":"https://pirl.poolhub.org/",
+	"url":"http://pirl.poolhub.org/",
         "iconurl":"https://poolhub.org/img/pirl.png",
 	"room_id":"444408311643766784"
     },
     {
         "name":"Callisto",
         "symbol":"CLO",
-	"url":"https://clo.poolhub.org/",
+	"url":"http://clo.poolhub.org/",
         "iconurl":"https://poolhub.org/img/clo.png",
 	"room_id":"507641207221125144"
     }
