@@ -9,64 +9,71 @@
         "name":"EthereumClassic",
         "symbol":"ETC",
 	"url":"http://etc.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/etc.png",
-	"room_id":"469545780080934923"
+        "iconurl":"https://poolhub.org/img/coins/etc.png",
+	"room_id":"528740157482860596"
     },
     {
         "name":"Musicoin",
         "symbol":"MUSIC",
 	"url":"http://music.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/music.png",
-	"room_id":"438838172307161089"
+        "iconurl":"https://poolhub.org/img/coins/music.png",
+	"room_id":"528740157482860596"
     },
     {
         "name":"Ubiq",
         "symbol":"UBIQ",
 	"url":"http://ubiq.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/ubiq.png",
-	"room_id":"438837776113205258"
+        "iconurl":"https://poolhub.org/img/coins/ubiq.png",
+	"room_id":"528740157482860596"
     },
     {
         "name":"Ellaism",
         "symbol":"ELLA",
 	"url":"http://ella.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/ella.png",
-	"room_id":"438837727190974474"
+        "iconurl":"https://poolhub.org/img/coins/ella.png",
+	"room_id":"528740157482860596"
     },    
     {
         "name":"Expanse",
         "symbol":"EXP",
 	"url":"http://exp.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/exp.png",
-	"room_id":"488740058032111617"
+        "iconurl":"https://poolhub.org/img/coins/exp.png",
+	"room_id":"528740157482860596"
     },     
     {
         "name":"Whalecoin",
         "symbol":"WHL",
 	"url":"http://whale.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/whale.png",
-	"room_id":"491240065926823937"
+        "iconurl":"https://poolhub.org/img/coins/whale.png",
+	"room_id":"528740157482860596"
     },        
     {
         "name":"Akroma",
         "symbol":"AKA",
 	"url":"http://aka.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/aka.png",
-	"room_id":"487029527227400200"
+        "iconurl":"https://poolhub.org/img/coins/aka.png",
+	"room_id":"528740157482860596"
     },    
     {
         "name":"Pirl",
         "symbol":"PIRL",
 	"url":"http://pirl.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/pirl.png",
-	"room_id":"444408311643766784"
+        "iconurl":"https://poolhub.org/img/coins/pirl.png",
+	"room_id":"528740157482860596"
+    },    
+    {
+        "name":"MOAC",
+        "symbol":"MOAC",
+	"url":"http://moac.poolhub.org/",
+        "iconurl":"https://poolhub.org/img/coins/moac.png",
+	"room_id":"528740157482860596"
     },
     {
         "name":"Callisto",
         "symbol":"CLO",
 	"url":"http://clo.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/clo.png",
-	"room_id":"507641207221125144"
+        "iconurl":"https://poolhub.org/img/coins/clo.png",
+	"room_id":"528740157482860596"
     }
 ]
 }
