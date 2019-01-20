@@ -1,0 +1,22 @@
+{
+  "logourl":"https://poolhub.org/img/gopherpool.png",
+  "iconurl":"https://poolhub.org/img/gopherpool.png",
+  "headline":"Gopherpool, Always Digging for Blocks",
+  "pools":[
+
+    {
+        "name":"Snowgem",
+        "symbol":"XSG",
+	"url":"http://snowgem.gopherpool.io/",
+        "iconurl":"https://poolhub.org/img/coins/xsg.png",
+	"room_id":"528740157482860596"
+    },
+    {
+        "name":"Energi",
+        "symbol":"NRG",
+	"url":"http://energi.gopherpool.io/",
+        "iconurl":"https://poolhub.org/img/coins/NRG.png",
+	"room_id":"528740157482860596"
+    }
+]
+}
