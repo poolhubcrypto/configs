@@ -10,6 +10,13 @@
 	"url":"http://snowgem.gopherpool.io/",
         "iconurl":"https://poolhub.org/img/coins/xsg.png",
 	"room_id":"528740157482860596"
+    },
+{
+        "name":"Energi",
+        "symbol":"NRG",
+	"url":"http://energi.gopherpool.io/",
+        "iconurl":"https://poolhub.org/img/coins/nrg.png",
+	"room_id":"528740157482860596"
     }
 ]
 }
