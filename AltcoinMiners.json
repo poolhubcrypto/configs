@@ -67,6 +67,14 @@
         "iconurl":"https://altcoinminers.us/images/coin-1606.png",
 	"room_id":"528740157482860596",
         "Algorithm":"Lyra2v2"
+    },
+    {
+        "name":"Ravendark",
+        "symbol":"XRD",
+	"url":"https://altcoinminers.us/site/block?id=2031",
+        "iconurl":"https://altcoinminers.us/images/coin-2031.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"x16r"
     }
 ]
 }
