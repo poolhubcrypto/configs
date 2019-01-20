@@ -1,0 +1,24 @@
+{
+  "logourl":"https://altcoinminers.us/images/AltCoin-Miners/AltCoin-Miners.png",
+  "iconurl":"https://altcoinminers.us/images/AltCoin-Miners/AltCoin-Miners.png",
+  "headline":"Altcoin Miners, COINS COINS COINS",
+  "pools":[
+
+    {
+        "name":"Vivo",
+        "symbol":"VIVO",
+	      "url":"https://altcoinminers.us/site/block?id=1440",
+        "iconurl":"https://altcoinminers.us/images/coin-1440.png",
+	      "room_id":"528740157482860596",
+        "Algorithm":"Neoscrypt"
+    },
+    {
+        "name":"Desire",
+        "symbol":"DSR",
+	      "url":"https://altcoinminers.us/site/block?id=1462",
+        "iconurl":"https://altcoinminers.us/images/coin-1462.png",
+	      "room_id":"528740157482860596",
+        "Algorithm":"Neoscrypt"
+    }
+]
+}
