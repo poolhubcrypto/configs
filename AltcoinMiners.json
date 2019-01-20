@@ -19,6 +19,14 @@
         "iconurl":"https://altcoinminers.us/images/coin-1462.png",
 	"room_id":"528740157482860596",
         "Algorithm":"Neoscrypt"
+    },
+    {
+        "name":"GoByte",
+        "symbol":"GBX",
+	"url":"https://altcoinminers.us/site/block?id=1702",
+        "iconurl":"https://altcoinminers.us/images/coin-1702.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Neoscrypt"
     }
 ]
 }
