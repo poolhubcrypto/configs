@@ -27,6 +27,46 @@
         "iconurl":"https://altcoinminers.us/images/coin-1702.png",
 	"room_id":"528740157482860596",
         "Algorithm":"Neoscrypt"
+    },
+    {
+        "name":"GINcoin",
+        "symbol":"GIN",
+	"url":"https://altcoinminers.us/site/block?id=1703",
+        "iconurl":"https://altcoinminers.us/images/coin-1703.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Lyra2z"
+    },
+    {
+        "name":"Gentarium",
+        "symbol":"GTM",
+	"url":"https://altcoinminers.us/site/block?id=1706",
+        "iconurl":"https://altcoinminers.us/images/coin-1706.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Lyra2z"
+    },
+    {
+        "name":"Monacoin",
+        "symbol":"MONA",
+	"url":"https://altcoinminers.us/site/block?id=2025",
+        "iconurl":"https://altcoinminers.us/images/coin-2025.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Lyra2v2"
+    },
+    {
+        "name":"Galactrum",
+        "symbol":"MONA",
+	"url":"https://altcoinminers.us/site/block?id=1648",
+        "iconurl":"https://altcoinminers.us/images/coin-1648.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Lyra2v2"
+    },
+    {
+        "name":"Straks",
+        "symbol":"STAK",
+	"url":"https://altcoinminers.us/site/block?id=1606",
+        "iconurl":"https://altcoinminers.us/images/coin-1606.png",
+	"room_id":"528740157482860596",
+        "Algorithm":"Lyra2v2"
     }
 ]
 }
