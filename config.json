@@ -39,14 +39,7 @@
 	"url":"http://exp.poolhub.org/",
         "iconurl":"https://poolhub.org/img/coins/exp.png",
 	"room_id":"528740157482860596"
-    },     
-    {
-        "name":"Whalecoin",
-        "symbol":"WHL",
-	"url":"http://whale.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/whale.png",
-	"room_id":"528740157482860596"
-    },        
+    },          
     {
         "name":"Akroma",
         "symbol":"AKA",
