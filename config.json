@@ -74,6 +74,13 @@
 	"url":"http://web.poolhub.org/",
         "iconurl":"https://poolhub.org/img/coins/web.png",
 	"room_id":"528740157482860596"
+    },
+    {
+        "name":"Bitcoiin",
+        "symbol":"B2G",
+	"url":"http://b2g.poolhub.org/",
+        "iconurl":"https://poolhub.org/img/coins/b2g.png",
+	"room_id":"528740157482860596"
     }
 ]
 }
