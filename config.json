@@ -13,13 +13,6 @@
 	"room_id":"528740157482860596"
     },
     {
-        "name":"Musicoin",
-        "symbol":"MUSIC",
-	"url":"http://music.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/music.png",
-	"room_id":"528740157482860596"
-    },
-    {
         "name":"Ubiq",
         "symbol":"UBIQ",
 	"url":"http://ubiq.poolhub.org/",
