@@ -13,73 +13,10 @@
 	"room_id":"528740157482860596"
     },
     {
-        "name":"Ubiq",
-        "symbol":"UBIQ",
-	"url":"http://ubiq.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/ubiq.png",
-	"room_id":"528740157482860596"
-    },
-    {
-        "name":"Ellaism",
-        "symbol":"ELLA",
-	"url":"http://ella.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/ella.png",
-	"room_id":"528740157482860596"
-    },    
-    {
         "name":"Expanse",
         "symbol":"EXP",
 	"url":"http://exp.poolhub.org/",
         "iconurl":"https://poolhub.org/img/coins/exp.png",
-	"room_id":"528740157482860596"
-    },          
-    {
-        "name":"Akroma",
-        "symbol":"AKA",
-	"url":"http://aka.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/aka.png",
-	"room_id":"528740157482860596"
-    },    
-    {
-        "name":"Pirl",
-        "symbol":"PIRL",
-	"url":"http://pirl.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/pirl.png",
-	"room_id":"528740157482860596"
-    },    
-    {
-        "name":"MOAC",
-        "symbol":"MOAC",
-	"url":"http://moac.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/moac.png",
-	"room_id":"528740157482860596"
-    },
-    {
-        "name":"Callisto",
-        "symbol":"CLO",
-	"url":"http://clo.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/clo.png",
-	"room_id":"528740157482860596"
-    },
-    {
-        "name":"Webchain",
-        "symbol":"WEB",
-	"url":"http://web.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/web.png",
-	"room_id":"528740157482860596"
-    },
-    {
-        "name":"Bitcoiin2Gen",
-        "symbol":"B2G",
-	"url":"http://b2g.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/b2g.png",
-	"room_id":"528740157482860596"
-    },
-    {
-        "name":"SageCity",
-        "symbol":"SAGE",
-	"url":"http://sage.poolhub.org/",
-        "iconurl":"https://poolhub.org/img/coins/sage.png",
 	"room_id":"528740157482860596"
     }
 ]
